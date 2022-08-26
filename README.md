@@ -5,8 +5,8 @@ Cara menerapkan bootstrap pada project mendesain halaman profil. Mencakup grid s
 ## Yang dipelajari
 
 ✅ Bootstrap 5.2 <br>
-    - Grid System
-    - Card Component
+    - Grid System <br>
+    - Card Component <br>
 ✅ Font Awesome dalam membuat icon <br>
 
 ## Screenshot
