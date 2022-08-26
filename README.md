@@ -11,6 +11,8 @@ Cara menerapkan bootstrap pada project mendesain halaman profil. Mencakup grid s
 
 ## Screenshot
 
+<img src="https://github.com/janzenfaidiban/tutorial-desain-halaman-profil-dengan-bootstrap.5.x/blob/main/screenshot.png?raw=true">
+
 ## Demo
 
 [Lihat Demo](https://janzenfaidiban.github.io/tutorial-desain-halaman-profil-dengan-bootstrap.5.x/)
