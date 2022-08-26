@@ -1,5 +1,18 @@
 # Tutorial Desain Halaman Profil Dengan Bootstrap 5.x
 
+Cara menerapkan bootstrap pada project mendesain halaman profil. Mencakup grid system dan komponen card dan juga font awesome untuk buat icon pada bagian kontak dan sosial media.
+
+## Yang dipelajari
+
+✅ Bootstrap 5.2
+    - Grid System
+    - Card Component
+✅ Font Awesome dalam membuat icon
+
+## Youtube Link
+
+[Tutorial Desain Halaman Profil Dengan Bootstrap 5.x
+](https://youtu.be/ZA3DX0DtmXA)
 
 ## Bootstrap
 
